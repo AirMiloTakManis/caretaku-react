@@ -1,0 +1,23 @@
+.leaflet-control-zoom-in {
+  color: var(--dark-color) !important;
+  background-color: var(--primary-color) !important;
+}
+
+.leaflet-control-zoom-out {
+  color: var(--dark-color) !important;
+  background-color: var(--primary-color) !important;
+}
+
+@media (max-width: 600px) {
+  .leaflet-control-zoom-in {
+    visibility: hidden;
+  }
+  
+  .leaflet-control-zoom-out {
+    visibility: hidden;
+  }
+
+  .leaflet-bar {
+    visibility: hidden;
+  }
+}

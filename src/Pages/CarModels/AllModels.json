@@ -1,0 +1,320 @@
+[
+  {
+      "id": 2,
+      "brandCode": "Proton",
+      "brandName": "Proton",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Proton.png"
+  },
+  {
+      "id": 23,
+      "brandCode": "Perodua",
+      "brandName": "Perodua",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Perodua.png"
+  },
+  {
+      "id": 24,
+      "brandCode": "Honda",
+      "brandName": "Honda",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Honda.png"
+  },
+  {
+      "id": 10,
+      "brandCode": "Toyota",
+      "brandName": "Toyota",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Toyota.png"
+  },
+  {
+      "id": 34,
+      "brandCode": "Nissan",
+      "brandName": "Nissan",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Nissan.png"
+  },
+  {
+      "id": 36,
+      "brandCode": "Mazda",
+      "brandName": "Mazda",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Mazda.png"
+  },
+  {
+      "id": 43,
+      "brandCode": "Mercedes-Benz",
+      "brandName": "Mercedes…",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Mercedes-Benz.png"
+  },
+  {
+      "id": 1,
+      "brandCode": "BMW",
+      "brandName": "BMW",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/BMW.png"
+  },
+  {
+      "id": 22,
+      "brandCode": "Volvo",
+      "brandName": "Volvo",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Volvo.png"
+  },
+  {
+      "id": 38,
+      "brandCode": "Ford",
+      "brandName": "Ford",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Ford.png"
+  },
+  {
+      "id": 11,
+      "brandCode": "Hyundai",
+      "brandName": "Hyundai",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Hyundai.png"
+  },
+  {
+      "id": 45,
+      "brandCode": "Kia",
+      "brandName": "Kia",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Kia.png"
+  },
+  {
+      "id": 25,
+      "brandCode": "Audi",
+      "brandName": "Audi",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Audi.png"
+  },
+  {
+      "id": 42,
+      "brandCode": "Lexus",
+      "brandName": "Lexus",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Lexus.png"
+  },
+  {
+      "id": 47,
+      "brandCode": "Volkswagen",
+      "brandName": "Volkswagen",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Volkswagen.png"
+  },
+  {
+      "id": 40,
+      "brandCode": "Peugeot",
+      "brandName": "Peugeot",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Peugeot.png"
+  },
+  {
+      "id": 44,
+      "brandCode": "MINI",
+      "brandName": "MINI",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/MINI.png"
+  },
+  {
+      "id": 41,
+      "brandCode": "Lamborghini",
+      "brandName": "Lamborghini",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Lamborghini.png"
+  },
+  {
+      "id": 37,
+      "brandCode": "Land Rover",
+      "brandName": "Land Rover",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Land Rover.png"
+  },
+  {
+      "id": 35,
+      "brandCode": "Mitsubishi",
+      "brandName": "Mitsubishi",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Mitsubishi.png"
+  },
+  {
+      "id": 30,
+      "brandCode": "Citroen",
+      "brandName": "Citroen",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Citroen.png"
+  },
+  {
+      "id": 29,
+      "brandCode": "Maserati",
+      "brandName": "Maserati",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Maserati.png"
+  },
+  {
+      "id": 27,
+      "brandCode": "Suzuki",
+      "brandName": "Suzuki",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Suzuki.png"
+  },
+  {
+      "id": 20,
+      "brandCode": "Subaru",
+      "brandName": "Subaru",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Subaru.png"
+  },
+  {
+      "id": 19,
+      "brandCode": "Renault",
+      "brandName": "Renault",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Renault.png"
+  },
+  {
+      "id": 16,
+      "brandCode": "Lotus",
+      "brandName": "Lotus",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Lotus.png"
+  },
+  {
+      "id": 15,
+      "brandCode": "Porsche",
+      "brandName": "Porsche",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Porsche.png"
+  },
+  {
+      "id": 13,
+      "brandCode": "Ferrari",
+      "brandName": "Ferrari",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Ferrari.png"
+  },
+  {
+      "id": 9,
+      "brandCode": "Haval",
+      "brandName": "HAVAL",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Haval.png"
+  },
+  {
+      "id": 8,
+      "brandCode": "Jaguar",
+      "brandName": "Jaguar",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Jaguar.png"
+  },
+  {
+      "id": 6,
+      "brandCode": "Isuzu",
+      "brandName": "Isuzu",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Isuzu.png"
+  },
+  {
+      "id": 46,
+      "brandCode": "Bentley",
+      "brandName": "Bentley",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Bentley.png"
+  },
+  {
+      "id": 26,
+      "brandCode": "Aston Martin",
+      "brandName": "Aston Martin",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Aston Martin.png"
+  },
+  {
+      "id": 7,
+      "brandCode": "Rolls Royce",
+      "brandName": "Rolls Royce",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Rolls Royce.png"
+  },
+  {
+      "id": 3,
+      "brandCode": "Maxus",
+      "brandName": "Maxus",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Maxus.png"
+  },
+  {
+      "id": 17,
+      "brandCode": "McLaren",
+      "brandName": "McLaren",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/McLaren.png"
+  },
+  {
+      "id": 192,
+      "brandCode": "MG",
+      "brandName": "MG",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/MG.png"
+  },
+  {
+      "id": 48,
+      "brandCode": "Geely",
+      "brandName": "Geely",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Geely.png"
+  },
+  {
+      "id": 296,
+      "brandCode": "DFSK",
+      "brandName": "DFSK",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/DFSK.png"
+  },
+  {
+      "id": 306,
+      "brandCode": "GWM",
+      "brandName": "GWM",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/GWM.png"
+  },
+  {
+      "id": 307,
+      "brandCode": "ORA",
+      "brandName": "ORA",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/ORA.png"
+  },
+  {
+      "id": 311,
+      "brandCode": "JMC",
+      "brandName": "JMC",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/JMC.png"
+  },
+  {
+      "id": 31,
+      "brandCode": "Chery",
+      "brandName": "Chery",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Chery.png"
+  },
+  {
+      "id": 4,
+      "brandCode": "Chevrolet",
+      "brandName": "Chevrolet",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Chevrolet.png"
+  },
+  {
+      "id": 5,
+      "brandCode": "Infiniti",
+      "brandName": "Infiniti",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Infiniti.png"
+  },
+  {
+      "id": 314,
+      "brandCode": "GAC",
+      "brandName": "GAC",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/GAC.png"
+  },
+  {
+      "id": 477,
+      "brandCode": "Smart",
+      "brandName": "Smart",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Smart.png"
+  },
+  {
+      "id": 492,
+      "brandCode": "Tank",
+      "brandName": "TANK",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Tank.png"
+  },
+  {
+      "id": 506,
+      "brandCode": "BYD",
+      "brandName": "BYD",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/BYD.png"
+  },
+  {
+      "id": 508,
+      "brandCode": "Tesla",
+      "brandName": "Tesla",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Tesla.png"
+  },
+  {
+      "id": 524,
+      "brandCode": "Neta",
+      "brandName": "Neta",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Neta.png"
+  },
+  {
+      "id": 531,
+      "brandCode": "Lynk Co",
+      "brandName": "Lynk & Co",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Lynk Co.png"
+  },
+  {
+      "id": 14,
+      "brandCode": "Jeep",
+      "brandName": "Jeep",
+      "brandIcon": "/Users/airmilotakmanis/Developer/caretaku/src/Assets/Icons/CarLogo/Jeep.png"
+  }
+]
