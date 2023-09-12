@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-export default function hook() {
+export default function Hook() {
   const [tags, setTags] = useState([
     {
       id: 0,

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 
-export default function hook() {
+export default function Hook() {
   const [dealers, setDealers] = useState([])
   const [showDealers, setShowDealers] = useState(false);
   const [showAnimation, setShowAnimation] = useState(false);
