@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import { useState } from 'react'
 
 export default function Hook() {
   const [dealers, setDealers] = useState([])
@@ -28,9 +28,6 @@ export default function Hook() {
 const removeDealers = () => {
   setDealers([]);
 }
-
-
-
   return {
     dealers,
     showDealers,

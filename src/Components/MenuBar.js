@@ -1,14 +1,11 @@
 import React, { useState } from 'react'
 import KeretakuIcon from '../Assets/Icons/keretaku_subtext.png'
-import { NavLink, useLocation } from 'react-router-dom'
-import { Garage, Home, Map, Menu} from '@mui/icons-material'
-import { Avatar, IconButton } from '@mui/material'
+import { NavLink } from 'react-router-dom'
+import { Garage, Home, Map } from '@mui/icons-material'
 import { Sling as Hamburger } from 'hamburger-react'
 
 export default function MenuBar() {
-  const location = useLocation();
   const [showNav, setShowNav] = useState(false)
-  const [onHover, setOnHover] = useState(false)
 
   const toggleNavItems = () => {
     setShowNav(!showNav)
@@ -25,7 +22,7 @@ export default function MenuBar() {
           <Hamburger size={24} direction="right" duration={0.3} rounded toggled={showNav} toggle={setShowNav} />
         </div>
         <NavLink to="/">
-          <img src={KeretakuIcon} height={56} width={100} />
+          <img src={KeretakuIcon} alt="caretaku-icon" height={56} width={100} />
         </NavLink>
         <div className={`nav-elements ${showNav && 'active'}`}>
           <ul>

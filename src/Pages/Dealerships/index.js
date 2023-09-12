@@ -1,12 +1,10 @@
 /* eslint-disable max-len */
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import Map from './Map';
-import { Button } from '@mui/material';
 import useHook from './hook'
 
-export default () => {
+export default function Dealerships(){
   const h = useHook();
-  console.log("🚀 ~ file: index.js:9 ~ h:", h)
   const [onHover, setOnHover] = useState(false);
 
   return (

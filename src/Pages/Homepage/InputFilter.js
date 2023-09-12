@@ -1,31 +1,9 @@
 import React from 'react'
-import { Button, Grid, TextField, InputAdornment, IconButton } from '@mui/material';
-import { ArrowBack, ArrowForward, Visibility, VisibilityOff } from '@mui/icons-material'
-import { makeStyles } from '@mui/styles';
-import { useState } from 'react';
+import { Button, Grid } from '@mui/material';
 import CustomRadio from './CustomRadio';
-
-const useStyles = makeStyles(() => ({
-  input: {
-    backgroundColor: '#292830',
-  },
-  label: {
-    marginTop: 5,
-    textOverflow: 'ellipsis',
-    whiteSpace: 'nowrap',
-    overflow: 'hidden',
-    color: 'grey',
-  },
-}));
 
 
 export default function InputsFIlter() {
-  const classes = useStyles();
-  const [showPassword, setShowPassword] = useState(false);
-
-  const handleClickShowPassword = () => {
-    setShowPassword(!showPassword);
-  };
   return (
     <Grid item container xs={12} md={12} className="radio-container">
       <Grid item container xs={12} style={{ marginBottom: 5 }}>

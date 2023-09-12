@@ -18,7 +18,7 @@ export default function QuickFilters(h) {
           id="tags"
           onClick={e => {
             h.setTagsFilter(prev => (e.target.checked
-              ? e.target.value == '' ? [''] : [...prev, e.target.value].filter(tg => tg != '')
+              ? e.target.value === '' ? [''] : [...prev, e.target.value].filter(tg => tg !== '')
               : prev.filter(eTags => eTags !== e.target.value)));
           }}
           value={tag.label === 'All' ? '' : tag.label}

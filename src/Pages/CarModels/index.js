@@ -1,10 +1,8 @@
-import React, { useEffect, useState, useRef } from 'react';
+import React, { useRef } from 'react';
 import AllModels from './AllModels.json';
 import ProtonDummy from './ProtonDummy.json'
-import { IconButton, List } from '@mui/material';
-import { ChevronLeft, ChevronRight, Update } from '@mui/icons-material';
+import { ChevronLeft, ChevronRight } from '@mui/icons-material';
 import SearchBox from '../../Components/Searchbox';
-import logoPlaceHolder from '../../Assets/Icons/placehodlerlogo.png';
 import useHook from './hook'
 import QuickFilters from './QuickFilters.js'
 import CarsCard from './CarsCard';
@@ -23,15 +21,6 @@ export default function CarModels() {
       });
     }
   };
-
-  const Chip = {
-    position: "absolute",
-    height: "100%",
-    zIndex: 2020,
-    display: "flex",
-    flexDirection: "row",
-    justifyContent: "center",
-  }
 
   return (
     <div style={{ padding: 20 }}>
@@ -62,7 +51,7 @@ export default function CarModels() {
             {AllModels.map((car, index) => (
               <div key={index}>
                 <div className='car-brands-filter-container'>
-                  <img src={`/images/${car.brandCode}.png`} width={70} alt='logo' />
+                  <img src={`/images/${car.brandCode}.png`} width={70} alt='car-brand-logo' />
                 </div>
                 <p style={{ textAlign: 'center', fontSize: 14 }}>{car.brandName}</p>
               </div>

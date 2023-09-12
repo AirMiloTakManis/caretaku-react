@@ -24,7 +24,7 @@ export default function CarCard({ brand = '', models = {} }) {
         >
           <p style={{ textAlign: 'center', margin: 'auto' }}>{brand}</p>
         </div>
-        <img src={CarImagePlaceholder} alt={`${models.modelCode} image`} style={{ width: '80%' }} />
+        <img src={CarImagePlaceholder} alt={models.modelCode} style={{ width: '80%' }} />
       </div>
       <div style={{ paddingLeft: 15, marginTop: 20 }}>
         <p>{modelCode}</p>
