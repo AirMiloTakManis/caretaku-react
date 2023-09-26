@@ -20,7 +20,7 @@ export default function Hook(props) {
     setTransmissionTypes(props.tranmissionType);
     setEngineTypes(props.engineType);
     setOrigins(props.origin);
-  }, [])
+  }, [props.bodyType, props.carCondition, props.engineType, props.origin, props.tranmissionType])
 
   const handleSubmit = () => {
     setCustomClass(true);

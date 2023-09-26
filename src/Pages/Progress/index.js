@@ -1,7 +1,6 @@
 import React from 'react'
 import placeholderv2 from '../../Assets/Images/placeholder404.png'
 import QR from '../../Assets/Images/IMG_7670.jpg'
-import { useLocation } from 'react-router-dom';
 
 export default function index({ staticData }) {
   const queryString = window.location.search;

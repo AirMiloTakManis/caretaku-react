@@ -1,4 +1,3 @@
-import React from 'react'
 import staticData from './staticdata.json'
 
 export default function hook() {

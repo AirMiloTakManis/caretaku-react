@@ -1,7 +1,6 @@
 import React from 'react'
-import { Button, Grid } from '@mui/material';
+import { Grid } from '@mui/material';
 import CustomRadio from './CustomRadio';
-import { Link } from "react-router-dom";
 import useHook from './hook'
 
 export default function InputsFIlter({ staticData }) {
