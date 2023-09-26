@@ -7,7 +7,6 @@ import useHook from './hook'
 export default function InputsFIlter({ staticData }) {
   const h = useHook(staticData)
   const buttonClass = !!h.customClass ? 'button-loading' : 'button'
-  console.log("🚀 ~ file: InputFilter.js:10 ~ InputsFIlter ~ buttonClass:", buttonClass)
   return (
     <Grid item container xs={12} md={12} className="radio-container">
       <Grid item container xs={12} style={{ marginBottom: 5 }}>

@@ -4,7 +4,6 @@ import QR from '../../Assets/Images/IMG_7670.jpg'
 import { useLocation } from 'react-router-dom';
 
 export default function index({ staticData }) {
-  console.log("🚀 ~ file: index.js:6 ~ index ~ staticData:", staticData)
   const queryString = window.location.search;
   const urlParams = new URLSearchParams(queryString);
 
