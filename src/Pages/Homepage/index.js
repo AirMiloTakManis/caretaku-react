@@ -2,7 +2,7 @@ import React from 'react'
 import { Grid } from '@mui/material';
 import InputsFilter from './InputFilter';
 
-export default function Homepage() {
+export default function Homepage({ staticData }) {
   return (
     <Grid container style={{ height: '100vh', width: '100vw' }}>
         <Grid item container xs={12} md={12}>
@@ -16,7 +16,7 @@ export default function Homepage() {
             <div style={{ position: 'absolute', borderRadius: 20, backgroundColor: 'var(--primary-color)', boxShadow: '0 0 10px 0 rgba(0,0,0,0.45) inset',  width: '30%', height: '40%', top: '35%', left: '20%', zIndex: 1}}/>
           </Grid>
           <Grid item xs={12} md={6} className="input-filter-container">
-            <InputsFilter />
+            <InputsFilter staticData={staticData} />
           </Grid>
         </Grid>
       </Grid>

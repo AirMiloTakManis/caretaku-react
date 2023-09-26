@@ -1,0 +1,107 @@
+{
+    "carCondition": [{
+      "id": 0,
+      "name": "New",
+      "value": 1
+    },
+    {
+      "id": 1,
+      "name": "Used",
+      "value": 2
+    }],
+    "bodyType": [{
+      "id": 0,
+      "name": "Sedan",
+      "value": 1
+    },
+    {
+      "id": 1,
+      "name": "Hatchback",
+      "value": 2
+    },
+    {
+      "id": 2,
+      "name": "SUV",
+      "value": 3
+    },
+    {
+      "id": 3,
+      "name": "MPV",
+      "value": 4
+    },
+    {
+      "id": 4,
+      "name": "Coupe",
+      "value": 5
+    },
+    {
+      "id": 5,
+      "name": "Truck",
+      "value": 6
+    },
+    {
+      "id": 6,
+      "name": "Wagon",
+      "value": 7
+    },
+    {
+      "id": 7,
+      "name": "Convertible",
+      "value": 8
+    },
+    {
+      "id": 8,
+      "name": "Van",
+      "value": 9
+    }],
+    "tranmissionType": [{
+      "id": 0,
+      "name": "Automatic",
+      "value": 1
+    },
+    {
+      "id": 1,
+      "name": "Manual",
+      "value": 2
+    }],
+    "engineType": [{
+      "id": 0,
+      "name": "Petrol",
+      "value": 1
+    },
+    {
+      "id": 1,
+      "name": "Diesel",
+      "value": 2
+    },
+    {
+      "id": 2,
+      "name": "Hybrid",
+      "value": 3
+    },
+    {
+      "id": 3,
+      "name": "Electric",
+      "value": 4
+    }],
+    "origin": [{
+      "id": 0,
+      "name": "Local",
+      "value": 1
+    },
+    {
+      "id": 1,
+      "name": "Japanese",
+      "value": 2
+    },
+    {
+      "id": 2,
+      "name": "Japanese",
+      "value": 3
+    },
+    {
+      "id": 3,
+      "name": "Korean",
+      "value": 4
+    }]
+}

@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import AllModels from './AllModels.json';
-import ProtonDummy from './ProtonDummy.json'
+import ProtonDummy from './CarBrands/ProtonDummy.json'
 import { ChevronLeft, ChevronRight } from '@mui/icons-material';
 import SearchBox from '../../Components/Searchbox';
 import useHook from './hook'
