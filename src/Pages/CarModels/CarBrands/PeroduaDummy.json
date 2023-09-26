@@ -1,0 +1,362 @@
+[
+  {
+      "id": 27,
+      "targetHref": "/cars/perodua/axia",
+      "targetText": "Perodua Axia",
+      "priceInfo": {
+          "minPrice": 38600,
+          "maxPrice": 49500,
+          "priceUnit": "RM"
+      },
+      "imgInfo": {
+          "src": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/8cbf92ff2e994c249656ea30f3c2d00f.jpg"
+      },
+      "seoLinkInfo": null,
+      "saleState": 1,
+      "hotState": 1,
+      "vrState": 0,
+      "upcomingType": 3,
+      "upcomingTime": "2023-02-14 12:00:00",
+      "upcomingSubmitTime": "2023-02-14 15:40:23",
+      "addVariantTime": "2023-02-14 16:10:41",
+      "addModelTime": null,
+      "variantInnerLinkInfoList": null,
+      "lang": "my-en",
+      "btnTargetHref": "/buy-car/perodua/axia?bodyType=2&budget=27020,64350&utm_source=wapcar&utm_medium=partner&utm_campaign=my-b2c-en-conv&utm_content=wapcar_brand_model_button&utm_term=none",
+      "variantCount": 16,
+      "state": "hot",
+      "variantInfo": {
+          "id": 18666,
+          "brandId": 23,
+          "brandCode": "Perodua",
+          "brandName": "Perodua",
+          "modelId": 27,
+          "modelCode": "Perodua Axia",
+          "modelName": "Perodua Axia",
+          "variantCode": "2023 Perodua Axia 1.0 AV",
+          "variantName": "2023 Perodua Axia 1.0 AV",
+          "price": 49500,
+          "priceUnit": "RM",
+          "listImage": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/8cbf92ff2e994c249656ea30f3c2d00f.jpg"
+      },
+      "extraInfo": {
+          "bodyType": "Hatchback",
+          "segment": "A-Segment"
+      }
+  },
+  {
+      "id": 34,
+      "targetHref": "/cars/perodua/bezza",
+      "targetText": "Perodua Bezza",
+      "priceInfo": {
+          "minPrice": 34580,
+          "maxPrice": 49980,
+          "priceUnit": "RM"
+      },
+      "imgInfo": {
+          "src": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/4e743076cf7c4965824cc93bc58b44e1.jpg"
+      },
+      "seoLinkInfo": null,
+      "saleState": 1,
+      "hotState": 1,
+      "vrState": 0,
+      "upcomingType": 0,
+      "upcomingTime": null,
+      "upcomingSubmitTime": null,
+      "addVariantTime": "2022-08-20 00:00:00",
+      "addModelTime": null,
+      "variantInnerLinkInfoList": null,
+      "lang": "my-en",
+      "btnTargetHref": "/buy-car/perodua/bezza?bodyType=1&budget=24206,64974&utm_source=wapcar&utm_medium=partner&utm_campaign=my-b2c-en-conv&utm_content=wapcar_brand_model_button&utm_term=none",
+      "variantCount": 8,
+      "state": "hot",
+      "variantInfo": {
+          "id": 4231,
+          "brandId": 23,
+          "brandCode": "Perodua",
+          "brandName": "Perodua",
+          "modelId": 34,
+          "modelCode": "Perodua Bezza",
+          "modelName": "Perodua Bezza",
+          "variantCode": "2020 Bezza 1.0 GXtra 1.0 MT",
+          "variantName": "2020 Perodua Bezza 1.0 G (M)",
+          "price": 34580,
+          "priceUnit": "RM",
+          "listImage": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/4e743076cf7c4965824cc93bc58b44e1.jpg"
+      },
+      "extraInfo": {
+          "bodyType": "Sedan",
+          "segment": "A-Segment"
+      }
+  },
+  {
+      "id": 35,
+      "targetHref": "/cars/perodua/myvi",
+      "targetText": "Perodua Myvi",
+      "priceInfo": {
+          "minPrice": 46500,
+          "maxPrice": 59900,
+          "priceUnit": "RM"
+      },
+      "imgInfo": {
+          "src": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/b7a20b7c32024e43a152b01fc05cc2bb.jpg"
+      },
+      "seoLinkInfo": null,
+      "saleState": 1,
+      "hotState": 1,
+      "vrState": 1,
+      "upcomingType": 2,
+      "upcomingTime": "2021-11-18 21:00:00",
+      "upcomingSubmitTime": "2021-11-19 19:20:20",
+      "addVariantTime": "2022-08-20 00:00:00",
+      "addModelTime": null,
+      "variantInnerLinkInfoList": null,
+      "lang": "my-en",
+      "btnTargetHref": "/buy-car/perodua/myvi?bodyType=2&budget=32549,77870&utm_source=wapcar&utm_medium=partner&utm_campaign=my-b2c-en-conv&utm_content=wapcar_brand_model_button&utm_term=none",
+      "variantCount": 16,
+      "state": "vr",
+      "variantInfo": {
+          "id": 12187,
+          "brandId": 23,
+          "brandCode": "Perodua",
+          "brandName": "Perodua",
+          "modelId": 35,
+          "modelCode": "Perodua Myvi",
+          "modelName": "Perodua Myvi",
+          "variantCode": "2022 Perodua Myvi 1.5 AV",
+          "variantName": "2022 Perodua Myvi 1.5 AV",
+          "price": 59900,
+          "priceUnit": "RM",
+          "listImage": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/b7a20b7c32024e43a152b01fc05cc2bb.jpg"
+      },
+      "extraInfo": {
+          "bodyType": "Hatchback",
+          "segment": "B-Segment"
+      }
+  },
+  {
+      "id": 38,
+      "targetHref": "/cars/perodua/alza",
+      "targetText": "Perodua Alza",
+      "priceInfo": {
+          "minPrice": 62500,
+          "maxPrice": 75500,
+          "priceUnit": "RM"
+      },
+      "imgInfo": {
+          "src": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/851af70e40a544a38a0e41c056166462.jpg"
+      },
+      "seoLinkInfo": null,
+      "saleState": 1,
+      "hotState": 1,
+      "vrState": 0,
+      "upcomingType": 2,
+      "upcomingTime": "2022-07-20 12:00:00",
+      "upcomingSubmitTime": "2022-07-20 11:31:28",
+      "addVariantTime": "2023-02-01 14:56:49",
+      "addModelTime": null,
+      "variantInnerLinkInfoList": null,
+      "lang": "my-en",
+      "btnTargetHref": "/buy-car/perodua/alza?bodyType=3&budget=43750,98150&utm_source=wapcar&utm_medium=partner&utm_campaign=my-b2c-en-conv&utm_content=wapcar_brand_model_button&utm_term=none",
+      "variantCount": 7,
+      "state": "hot",
+      "variantInfo": {
+          "id": 18243,
+          "brandId": 23,
+          "brandCode": "Perodua",
+          "brandName": "Perodua",
+          "modelId": 38,
+          "modelCode": "Perodua Alza",
+          "modelName": "Perodua Alza",
+          "variantCode": "2022 Perodua Alza 1.5 AV",
+          "variantName": "2022 Perodua Alza 1.5 AV",
+          "price": 75500,
+          "priceUnit": "RM",
+          "listImage": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/851af70e40a544a38a0e41c056166462.jpg"
+      },
+      "extraInfo": {
+          "bodyType": "MPV",
+          "segment": "B-Segment"
+      }
+  },
+  {
+      "id": 2492,
+      "targetHref": "/cars/perodua/ativa",
+      "targetText": "Perodua Ativa",
+      "priceInfo": {
+          "minPrice": 62500,
+          "maxPrice": 73400,
+          "priceUnit": "RM"
+      },
+      "imgInfo": {
+          "src": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/ed3c6eec461043be9bbfb9fae8c68258.jpg"
+      },
+      "seoLinkInfo": null,
+      "saleState": 1,
+      "hotState": 1,
+      "vrState": 0,
+      "upcomingType": 1,
+      "upcomingTime": "2021-03-03 12:00:00",
+      "upcomingSubmitTime": "2021-03-30 19:25:48",
+      "addVariantTime": "2022-08-20 00:00:00",
+      "addModelTime": "2021-03-31 19:25:48",
+      "variantInnerLinkInfoList": null,
+      "lang": "my-en",
+      "btnTargetHref": "/buy-car/perodua/ativa?bodyType=4&budget=43750,95420&utm_source=wapcar&utm_medium=partner&utm_campaign=my-b2c-en-conv&utm_content=wapcar_brand_model_button&utm_term=none",
+      "variantCount": 6,
+      "state": "hot",
+      "variantInfo": {
+          "id": 11720,
+          "brandId": 23,
+          "brandCode": "Perodua",
+          "brandName": "Perodua",
+          "modelId": 2492,
+          "modelCode": "Perodua Ativa",
+          "modelName": "Perodua Ativa",
+          "variantCode": "2021 Perodua Ativa 1.0L Turbo AV Special Metallic",
+          "variantName": "2021 Perodua Ativa 1.0L Turbo AV Special Metallic",
+          "price": 73100,
+          "priceUnit": "RM",
+          "listImage": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/ed3c6eec461043be9bbfb9fae8c68258.jpg"
+      },
+      "extraInfo": {
+          "bodyType": "SUV",
+          "segment": "B-Segment"
+      }
+  },
+  {
+      "id": 40,
+      "targetHref": "/cars/perodua/aruz",
+      "targetText": "Perodua Aruz",
+      "priceInfo": {
+          "minPrice": 72900,
+          "maxPrice": 77900,
+          "priceUnit": "RM"
+      },
+      "imgInfo": {
+          "src": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/e13088f2677f4dfa8fbadd22a843e7de.jpg"
+      },
+      "seoLinkInfo": null,
+      "saleState": 1,
+      "hotState": 1,
+      "vrState": 0,
+      "upcomingType": 0,
+      "upcomingTime": null,
+      "upcomingSubmitTime": null,
+      "addVariantTime": "2022-08-20 00:00:00",
+      "addModelTime": null,
+      "variantInnerLinkInfoList": null,
+      "lang": "my-en",
+      "btnTargetHref": "/buy-car/perodua/aruz?bodyType=4&budget=51030,101270&utm_source=wapcar&utm_medium=partner&utm_campaign=my-b2c-en-conv&utm_content=wapcar_brand_model_button&utm_term=none",
+      "variantCount": 4,
+      "state": "hot",
+      "variantInfo": {
+          "id": 11945,
+          "brandId": 23,
+          "brandCode": "Perodua",
+          "brandName": "Perodua",
+          "modelId": 40,
+          "modelCode": "Perodua Aruz",
+          "modelName": "Perodua Aruz",
+          "variantCode": "2021 Perodua Aruz 1.5 X",
+          "variantName": "2021 Perodua Aruz 1.5 X",
+          "price": 72900,
+          "priceUnit": "RM",
+          "listImage": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/e13088f2677f4dfa8fbadd22a843e7de.jpg"
+      },
+      "extraInfo": {
+          "bodyType": "SUV",
+          "segment": "B-Segment"
+      }
+  },
+  {
+      "id": 4853,
+      "targetHref": "/cars/perodua/nexis",
+      "targetText": "Perodua Nexis",
+      "priceInfo": {
+          "minPrice": 0,
+          "maxPrice": 0,
+          "priceUnit": "RM"
+      },
+      "imgInfo": {
+          "src": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/6fb68bb95d6d4b7b84485db6f4b228c6.jpg"
+      },
+      "seoLinkInfo": null,
+      "saleState": 2,
+      "hotState": 0,
+      "vrState": 0,
+      "upcomingType": 0,
+      "upcomingTime": null,
+      "upcomingSubmitTime": null,
+      "addVariantTime": null,
+      "addModelTime": null,
+      "variantInnerLinkInfoList": null,
+      "lang": "my-en",
+      "btnTargetHref": "/buy-car/perodua?bodyType=4&utm_source=wapcar&utm_medium=partner&utm_campaign=my-b2c-en-conv&utm_content=wapcar_brand_model_button&utm_term=none",
+      "variantCount": 1,
+      "state": "upcoming",
+      "variantInfo": {
+          "id": 19696,
+          "brandId": 23,
+          "brandCode": "Perodua",
+          "brandName": "Perodua",
+          "modelId": 4853,
+          "modelCode": "Perodua Nexis",
+          "modelName": "Perodua Nexis",
+          "variantCode": "Perodua Nexis D66B Upcoming 2024",
+          "variantName": "Perodua Nexis D66B Upcoming 2024",
+          "price": 0,
+          "priceUnit": "RM",
+          "listImage": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/6fb68bb95d6d4b7b84485db6f4b228c6.jpg"
+      },
+      "extraInfo": {
+          "bodyType": "SUV",
+          "segment": "B-Segment"
+      }
+  },
+  {
+      "id": 4928,
+      "targetHref": "/cars/perodua/viva",
+      "targetText": "Perodua Viva",
+      "priceInfo": {
+          "minPrice": 0,
+          "maxPrice": 0,
+          "priceUnit": "RM"
+      },
+      "imgInfo": {
+          "src": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/72578c8e62f54f40bdccc2357a75b634.png"
+      },
+      "seoLinkInfo": null,
+      "saleState": 3,
+      "hotState": 0,
+      "vrState": 0,
+      "upcomingType": 0,
+      "upcomingTime": null,
+      "upcomingSubmitTime": null,
+      "addVariantTime": null,
+      "addModelTime": null,
+      "variantInnerLinkInfoList": null,
+      "lang": "my-en",
+      "btnTargetHref": "/buy-car/perodua/viva?bodyType=2&utm_source=wapcar&utm_medium=partner&utm_campaign=my-b2c-en-conv&utm_content=wapcar_brand_model_button&utm_term=none",
+      "variantCount": 6,
+      "state": "notOnSale",
+      "variantInfo": {
+          "id": 19642,
+          "brandId": 23,
+          "brandCode": "Perodua",
+          "brandName": "Perodua",
+          "modelId": 4928,
+          "modelCode": "Perodua Viva",
+          "modelName": "Perodua Viva",
+          "variantCode": "2014 Perodua Viva 660 BX MT",
+          "variantName": "2014 Perodua Viva 660 BX MT",
+          "price": 21144,
+          "priceUnit": "RM",
+          "listImage": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/72578c8e62f54f40bdccc2357a75b634.png"
+      },
+      "extraInfo": {
+          "bodyType": "Hatchback",
+          "segment": "A-Segment"
+      }
+  }
+]
